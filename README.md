@@ -59,6 +59,6 @@ For open source projects,Under MIT License.
 
 - Project : PythonEdabitSolution
 - Author  : CodePerfectPlus
-- Language : CSharp
+- Language : Python
 - Github : <https://github.com/codePerfectPlus>
 - Website : <http://codeperfectplus.github.io/>
