@@ -8,7 +8,7 @@ findLargestNum([300, 200, 600, 150]) ➞ 600
 findLargestNum([1000, 1001, 857, 1]) ➞ 1001 """
 
 def findLargestNum( list ):
-    max = list[ 0 ]
+    max = list[0]
     for num in list:
         if num > max:
             max = num
